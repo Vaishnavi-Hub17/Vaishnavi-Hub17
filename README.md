@@ -1,49 +1,52 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Hub17)
 
+👋 Hi, I'm **Vaishnavi P**
 
-👋 Hi, I'm Vaishnavi P
-
-🎓 BCA Graduate  
-💻 Java Full Stack Learner | DevOps Learner  
-🌱 Learning by building and improving projects  
-
----
-
-🛠️ Tech Stack
-
-• Java  
-• JSP | Servlets | JDBC  
-• HTML | CSS | JavaScript  
-• MySQL  
-• Git & GitHub  
-• Linux (Basics)  
-• DevOps (Learning)
+🎓 **BCA Graduate**  
+💻 **Java Full Stack Learner | DevOps Learner**  
+🌱 Learning by building, practicing, and improving projects  
 
 ---
 
-📌 Current Focus
-• Strengthening backend development  
-• Exploring DevOps tools & workflows  
-• Building practical projects  
+🛠️ **Tech Stack**
+
+- Java  
+- JSP | Servlets | JDBC  
+- HTML | CSS | JavaScript  
+- MySQL  
+- Git & GitHub  
+- Linux (Basics)  
+- DevOps (Learning)
 
 ---
 
-📂 Projects
-• Java MVC CRUD Application  
-• Static Web Projects (HTML & CSS)  
-• Academic & Practice Projects  
+📌 **Current Focus**
+
+- Strengthening backend development with Java  
+- Exploring DevOps tools and workflows  
+- Building practical, hands-on projects  
 
 ---
 
-🌸 About Me
-• Curious learner  
-• Loves flowers 🌼  
-• Believes progress > perfection  
+📂 **Projects**
+
+- Java MVC CRUD Application  
+- Static Web Projects (HTML & CSS)  
+- Academic and practice-based projects  
 
 ---
 
-📫 Let’s Connect
-LinkedIn: www.linkedin.com/in/vaishnavi-p-2a7904303
-Email: vaishnavip2046@gmail.com
+🌸 **About Me**
+
+- Curious and consistent learner  
+- Loves flowers 🌼  
+- Believes *progress over perfection*  
+
+---
+
+📫 **Let’s Connect**
+
+- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-p-2a7904303  
+- **Email:** vaishnavip2046@gmail.com  
 
 ⭐ Thanks for visiting my GitHub profile!
