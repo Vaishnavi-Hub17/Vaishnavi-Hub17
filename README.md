@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+
 👋 Hi, I'm Vaishnavi P
 
 🎓 BCA Graduate  
