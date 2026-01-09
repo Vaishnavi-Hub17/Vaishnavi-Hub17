@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Vaishnavi-Hub17)
+
 
 👋 Hi, I'm **Vaishnavi P**
 
